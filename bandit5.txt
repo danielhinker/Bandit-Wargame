@@ -1,0 +1,5 @@
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+
+Used find . -type f -size 1033c ! -executable
+
+This command filters file based on the pre-requisites
