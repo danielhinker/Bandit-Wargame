@@ -1,0 +1,3 @@
+UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+
+Simply used cat on the file and then pressed tab without have to write out the full file name. But you could also write it all out using escape characters before the spaces

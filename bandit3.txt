@@ -1,0 +1,4 @@
+pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+
+cd in the inhere direction and then used ls -a to see hidden files
+I simply used cat on the hidden file
