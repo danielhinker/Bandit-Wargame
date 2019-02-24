@@ -1,0 +1,3 @@
+koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+
+Used "file ./* to see each file types" then used cat on the ASCII file
