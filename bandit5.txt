@@ -2,4 +2,4 @@ DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 
 Used find . -type f -size 1033c ! -executable
 
-This command filters file based on the pre-requisites
+This command filters file based on whether it's type f (regular file, rather than directory or etc), file size of 1033 bytes, and that it's not (!) an executable

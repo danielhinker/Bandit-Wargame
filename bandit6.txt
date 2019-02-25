@@ -1,0 +1,5 @@
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+
+find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
+
+Filters based on user, group, size and then outputs errors to the null device, which supresses outputs.
