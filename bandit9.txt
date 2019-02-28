@@ -1,0 +1,6 @@
+truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+
+Command Used:
+strings "data.txt" | grep "="
+
+Strings is able to print non-binary files unlike the cat command. This is then piped into grep to find lines with the equal sign symbol.
