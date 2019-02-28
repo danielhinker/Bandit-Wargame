@@ -1,0 +1,8 @@
+IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+
+Command Used:
+base64 -d data.txt
+or
+cat data.txt | base64 --decode
+
+This decodes the file, which is written in base64
