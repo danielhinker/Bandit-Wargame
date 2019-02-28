@@ -1,0 +1,7 @@
+5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+
+Commands Used:
+
+cat data.txt | tr '[A-Za-z]' '[N-ZA-Mn-za-m]'
+
+This command translates all upper and lower case characters 13 positions forward
