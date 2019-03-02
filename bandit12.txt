@@ -1,0 +1,13 @@
+8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+
+Commands Used:
+mkdir /tmp/testing
+cd /tmp/testing
+cp ~/data.txt /.
+file data.txt
+xxd -r data.txt > data_xxd_reversed
+zcat data_xxd_reversed > data_zcat
+bzip2 -d data_zcat
+tar xvf data_zcat.out
+
+Depending on the type of compression used on the file, which can be determined by using the File command, you have to choose which command will decompress the file. The first was ASCII text but it was a hexdump, which can be reversed using xxd -r. The output file was then gzip compressed, which can be decompressed using zcat. The file was then bzip2 compressed which can be decompressed using bzip2 -d. Finally it becomes a POSIX tar archive file, which can be extracted using tar xvf on the file. 
