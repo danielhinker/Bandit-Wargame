@@ -1,0 +1,14 @@
+4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+
+Commands Used:
+"file sshkey.private"
+
+This is to find out what kind of file it is. It is a PEM RSA private key
+
+"ssh bandit14@localhost -i sshkey.private"
+
+This logs into the same network but as bandit14 in order to have access to the key for the next level
+
+cat /etc/bandit_pass/bandit14
+
+This reads the text file
