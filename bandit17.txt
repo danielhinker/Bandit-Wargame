@@ -1,0 +1,7 @@
+kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
+
+Commands Used:
+chmod 400 or chmod 600 on the RSA Key to limit permissions
+diff passwords.old passwords.new
+
+This will show differences between the two files
