@@ -1,0 +1,7 @@
+gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
+
+Commands Used:
+nc -nvlp 1234
+./suconnect 1234
+
+One terminal is listen on a port of your choosing then you connect to it using the script. Enter the password on the port service listener and done.
