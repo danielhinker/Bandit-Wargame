@@ -1,0 +1,6 @@
+cluFn7wTiGryunymYOu4RcffSxQluehd
+
+Commands Used:
+openssl s_client -connect localhost:30001 -ign_eof
+
+This command connects to port 30001 on local host using SSL encryption
