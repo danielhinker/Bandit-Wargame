@@ -1,0 +1,6 @@
+BfMYroe26WYalil77FoDi9qh59eK5xNr
+
+Commands Used:
+nc localhost 30000
+
+This allows you to enter the password at a specific port in the network
