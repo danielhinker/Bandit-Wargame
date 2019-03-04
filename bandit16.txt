@@ -1,0 +1,6 @@
+Commands Used:
+
+nmap -sT -A -p 31000-32000 localhost
+openssl s_client -connect localhost:31790
+
+The first commands lets you listen in to open TCP ports within a range. Eventually, it will show two ports open, one of which is an SSL. You will then connect to the and read the RSA Key
