@@ -1,0 +1,6 @@
+IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
+
+Commands Used:
+ssh bandit18@bandit.labs.overthewire.org -p 2220 cat readme
+
+This allows you to read the readme file before exiting out of the ssh
