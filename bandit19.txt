@@ -1,0 +1,7 @@
+GbKksEFF4yrVs6il55v6gwY5aVje5f0j
+
+Commands Used:
+Executing a script such as ./bandit20-do
+whoami
+
+whoami shows that current users. The script changes your user permissions to allow you to read the text containing the next level's password
