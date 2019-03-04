@@ -1,0 +1,18 @@
+Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
+
+Commands Used:
+ls -l
+
+This is to see the different files along with permissions.
+
+cat *
+
+This is to see what each file contains.
+
+cat /usr/bin/cronjob_bandit22.sh
+
+One of the files contain this path and so we read what it contains
+
+cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+
+This contains the password
