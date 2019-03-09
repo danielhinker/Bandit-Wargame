@@ -1,5 +1,5 @@
 UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
 
 Command Used:
-cat data.txt | sort | uniq - u
+cat data.txt | sort | uniq -u
 This sorts the data list into alphabetical order then the uniq -u keeps just the unique/non-duplicated text.

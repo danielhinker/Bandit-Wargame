@@ -1,0 +1,15 @@
+uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
+
+Commands Used:
+
+vim bandit24.sh
+
+for i in {1..10000}
+
+do
+        echo "UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ $i" >> ./24.txt
+done
+
+chmod 755 ./bandit24.sh
+
+Create a script that will input every combination of passcode and then the password will be outputted
