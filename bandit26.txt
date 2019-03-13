@@ -1,0 +1,10 @@
+3ba3118a22e93127a4ed485be72ef5ea
+
+Commands Used:
+
+file bandit27-do
+./bandit27-do whoami
+
+echo 'cat /etc/bandit_pass/bandit27' > /tmp/yourfolder/yourscript.sh
+
+bandit27-do is a setuid script that can only run one command, so you have to write your own script to run in order to cat the password
