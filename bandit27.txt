@@ -1,0 +1,7 @@
+0ef186ac70e04ea33b4c1853d2526fa2
+
+Commands Used:
+
+git clone ssh://bandit27-git@localhost/home/bandit27-git/repo
+
+You just have to go to your tmp folder and clone the git and the README file will be in the folder
