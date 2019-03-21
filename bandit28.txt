@@ -1,0 +1,8 @@
+bbc96594b4e001778eee9975372716b2
+
+Commands Used:
+
+git clone ssh://bandit28-git@localhost/home/bandit28-git/repo
+git checkout <commit number>
+
+You have to clone the git repository and then checkout a previous commit in order to see the password
