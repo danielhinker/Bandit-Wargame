@@ -1,0 +1,11 @@
+47e603bb428404d265f59c42920d81e5
+
+Commands Used:
+
+cd .git/
+cat packed-refs
+git show-ref --tags -d
+git tag
+git show --name-only secret
+
+These commands will show a secret tag, which are marks in a repository's history, named "secret" which contains the password.
